@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+}
+.top-cont {
+  background-color: #F7ECDE;
+  text-align: center;
+  padding-top: 120px;
+}
+p {
+  text-align: center;
+  font-family: 'Exo 2', sans-serif;
+  color: black;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-style: italic;
+  margin-top: 20px;
+  color: grey;
+  /*width: 20%;
+  margin: 0 auto;
+*/}
+h2 {
+  font-family:serif;
+  color: grey;
+}
+
+
+.pic1 {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+.pic2 {
+  position: absolute;
+  left: 300px;
+}
+.pic4 {
+  position: absolute;
+  bottom: 300px;
+}
+.profile {
+  text-align: center;
+  margin: 0;
+}
+.skills{
+  text-align: center;
+}
+
+.bottom-cont {
+  text-align:center;
+}
+.contact-me {
+  margin-top: 0;
+
+}
+hr {
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  border-top: dotted;
+  border-width: 8px;
+  width:8%;
+  border-color: grey;
+}
+.lets {
+  color: orange;
+
+}
+.talk {
+  color: red;
+}
+.if {
+  color: grey;
+}
+.con {
+  margin-left: 30%;
+  margin-right: 30%;
+}
